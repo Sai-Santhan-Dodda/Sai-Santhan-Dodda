@@ -4,7 +4,7 @@ Results-driven Engineer with 5+ years crafting end-to-end solutions from elegant
 - Expertise in data engineering, real-time processing, root-cause analysis, working with Large Language Models (LLMs), and multi-agent systems.
 - Passionate about continual learning, ethical AI development, and solving complex problems through analytical and teamwork-driven approaches.
 
-I work as a Full Stack Engineer at Unnanu, a privately held Enterprise AI Search startup founded in 2022 and headquartered in Austin, TX (11–50 employees). Unnanu has developed a patented AI-powered search solution that revolutionizes the way businesses retrieve data, content, and models by leveraging private AI models instead of generative AI.
+I work as a Forward Deployed AI Engineer at Adobe. I'm based in Austin, TX, USA.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsanthan)
